@@ -1,0 +1,24 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Web Front-End Development
+tagline:             'Project Journal'
+description:         "Liangjun Song's project journal for ATLS-5630"
+url:                 http://lanyon.getpoole.com
+baseurl:             ''
+plugins: [jekyll-paginate]
+paginate:            5
+paginate_path: "page:num"
+
+# About/contact
+author:
+  name:              Liangjun Song
+  url:               https://github.com/LiangjunSong
+  email:             liangjun.song@colorado.edu
+
+# Custom vars
+version:             1.0.0
+project_site:        https://github.com/LiangjunSong
