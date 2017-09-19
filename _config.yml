@@ -8,7 +8,7 @@ title:               Web Front-End Development
 tagline:             "Liangjun Song's Project Journal"
 description:         "Liangjun Song's project journal for ATLS-5630"
 url:                 http://lanyon.getpoole.com
-baseurl:             ''
+baseurl:             'https://liangjunsong.github.io'
 plugins: [jekyll-paginate]
 paginate:            5
 paginate_path: "page:num"
