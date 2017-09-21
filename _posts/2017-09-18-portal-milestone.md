@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Portal Milestone
+title: Project 1 Milestone
 ---
 
 # Milestone 1
