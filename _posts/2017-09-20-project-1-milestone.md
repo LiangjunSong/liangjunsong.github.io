@@ -21,3 +21,6 @@ The project will be more like a slides with some great animations. The user can 
 To see prototype, click [here](http://creative.colorado.edu/~liso9349/fwd/project1/project1.html)
 
 The project is use to present people's stereotypes on Asian and Asian's responses on that. The viewer can view the page simply by clicking the 'Next' button. The prototype is just a demonstration of first stereotypes people has on Asian. More contents will be added in the final version. 
+
+# Milestone 4
+I tried to build a interactive website to introduce Asian Sterotypes. However, as I looked into the work of [Emily Volk](http://creative.colorado.edu/~emvo7205/front-end-web/project1/project1.html), my project is pale by comparison and I realized I could do more. First, to enhence the user experience, I could add sound or video to the website. Secondly, I implement the effect that words can appear by character. Emily's project also did that and she did it more interactive: the effect will pause at each period and it has a sound effect along with that, which makes it fell like someone is really typing. Those are the thing I could learn from and I will try to do better on my next project.
