@@ -9,5 +9,7 @@ For this project, I would like to build a public message board. I will use [thre
 
 # Milestone 2
 Click [here](http://creative.colorado.edu/~liso9349/fwd/project2/project2.html) to view the prototype of the project.
+
 Most of the functions are completed except user adding new message.
+
 To view the message, click on any of the 'star'.
