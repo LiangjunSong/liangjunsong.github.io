@@ -13,3 +13,6 @@ Click [here](http://creative.colorado.edu/~liso9349/fwd/project2/project2.html) 
 Most of the functions are completed except user adding new message.
 
 To view the message, click on any of the 'star'.
+
+# Milestone 4
+The project could have more visual effects. Also, the user interaction is not intuitive enough. Those will be fixed in my graduate project. For the graduate project, I hope it could be a more serious thing so more people can use it.

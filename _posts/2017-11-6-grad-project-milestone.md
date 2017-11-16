@@ -12,3 +12,7 @@ The graduate project will build on project 2, but with more functionalities and 
 4. Add visual effect to each star: star can shine and move around in the space.
 
 The prototype of project 2 can be viewed [here](http://creative.colorado.edu/~liso9349/fwd/project2/project2.html)
+
+# Milestone 2
+The prototype is basically like [project 2](http://creative.colorado.edu/~liso9349/fwd/project2/project2.html)
+Addtionally, my graduate project will rebuilt using ReactJS
