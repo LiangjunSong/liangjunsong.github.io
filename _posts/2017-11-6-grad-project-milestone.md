@@ -16,3 +16,6 @@ The prototype of project 2 can be viewed [here](http://creative.colorado.edu/~li
 # Milestone 2
 The prototype is basically like [project 2](http://creative.colorado.edu/~liso9349/fwd/project2/project2.html)
 Addtionally, my graduate project will rebuilt using ReactJS
+
+# Milestone 3
+The project is completed with image uploading and comment functions. After choosing your image, please wait for a second for image to upload before your press submit button. It took a while to upload the image. The project can be viewed from [here](http://creative.colorado.edu/~liso9349/fwd/gradproject/project2.html)
